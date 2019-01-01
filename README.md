@@ -58,7 +58,8 @@ When I'm stressed, I move more sharply into blue / red - mostly becoming super f
 
 # Here be dragons
 
-![Toothless](https://media.giphy.com/media/1pA8TwX8atOCnAtTbV/giphy.gif)
+![Toothless](https://media.giphy.com/media/ViGwJOV6EWAKs/giphy.gif)
+
 
 A few pointers from feedback I've noted so far that I'm working on - I'd love feedback:
 
