@@ -61,7 +61,7 @@ When I'm stressed, I move more sharply into blue / red - mostly becoming super f
 ![Toothless](https://media.giphy.com/media/ViGwJOV6EWAKs/giphy.gif)
 
 
-A few pointers from feedback I've noted so far that I'm working on - I'd love feedback:
+A few pointers from feedback I've noted so far that I'm working on - I'd love feedback on how you think I'm managing these points:
 
 - I have a penchanct for silo'ing myself when I get into something, and this affects my visiblity and communication
 - I have a tendency to speak before I think, which means I ramble and jump from point to point when explaining or talking through things. If I'm jumping too much between things when I'm talking then just let me know and bring me back to a focal point
