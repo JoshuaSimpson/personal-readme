@@ -1,6 +1,6 @@
 # Joshua Simpson
 
-# Let's get started
+# Let's get down to business
 
 ![Waving hello gif](https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif)
 
