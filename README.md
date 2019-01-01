@@ -2,7 +2,7 @@
 
 # Let's get down to business
 
-![Waving hello gif](https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif)
+![Waving hello gif](whale-gif.gif)
 
 I've been at AND for a cumulative 18-20 months (I lose count), having spent some time at a startup for a year in the middle. I'm a developer with a very generalist set of skills, skills ~~that make me a nightmare for people like you~~ ranging from Java and Ruby to tools and techniques that lie in the 'DevOps arena', and a handful of topics between.
 
@@ -22,7 +22,7 @@ When I'm stressed, I move more sharply into blue / red - mostly becoming super f
 
 # Ways of Working
 
-![Cats typing](https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif)
+![Cats typing](cat-gif.gif)
 
 - I'm much more effective at 11am than I am at 9am - always feel free to ask questions but early mornings... patience is key 🙏
 
@@ -38,7 +38,7 @@ When I'm stressed, I move more sharply into blue / red - mostly becoming super f
 
 # My current role
 
-![Clefairy pushing buttons](https://media.giphy.com/media/rAm0u2k17rM3e/giphy.gif)
+![Clefairy pushing buttons](no-idea.gif)
 
 - Currently a Tech Lead on client. It's an awesome team, and the first time I've taken on this sort of role
   - I'm still finding my bearing and actively looking for feedback, so let me know where I can improve
@@ -50,7 +50,7 @@ When I'm stressed, I move more sharply into blue / red - mostly becoming super f
 
 # Key Values
 
-![Major Key Alert](https://media.giphy.com/media/wHm63F7wKWINy/giphy.gif)
+![Major Key Alert](key-values.gif)
 
 - Transparency - in work yes, but also to an extent in personal. If you're having a rough time or issues outside of work, I don't need to know what they are, that's your business, but I do *want* to know so that I can adjust accordingly. As somebody who isn't neurotypical, things like mental health / self care are super important to me
 - Be excellent to each other - it should go without saying, but respect within any team I work in is absolute key to me, in all forms 
@@ -58,7 +58,7 @@ When I'm stressed, I move more sharply into blue / red - mostly becoming super f
 
 # Here be dragons
 
-![Toothless](https://media.giphy.com/media/ViGwJOV6EWAKs/giphy.gif)
+![Toothless](toothless.gif)
 
 
 A few pointers from feedback I've noted so far that I'm working on - I'd love feedback on how you think I'm managing these points:
