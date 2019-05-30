@@ -40,10 +40,10 @@ When I'm stressed, I move more sharply into blue / red - mostly becoming super f
 
 ![Clefairy pushing buttons](no-idea.gif)
 
-- Currently a Tech Lead on client. It's an awesome team, and the first time I've taken on this sort of role
+- Currently Tech Lead for Konsentus. It's an awesome team, and the first time I've taken on this sort of role
   - I'm still finding my bearing and actively looking for feedback, so let me know where I can improve
-  - I enjoy the balance of hands on dev, and the more 'concept-oriented' parts of my role
-  - I really enjoy that we get to experiment with different ways of working and new processes as a team
+  - I enjoy the balance of hands on dev and the more 'concept-oriented' parts of my role, but most of all the people part
+  - I really enjoy that we get to experiment with different ways of working and new processes as a team and cultivate a learning environment
 - I'm also Crypto's People Champion
   - I like enabling and effecting change
   - I love when people come to me with opinions on things
@@ -63,6 +63,6 @@ When I'm stressed, I move more sharply into blue / red - mostly becoming super f
 
 A few pointers from feedback I've noted so far that I'm working on - I'd love feedback on how you think I'm managing these points:
 
-- I have a penchanct for silo'ing myself when I get into something, and this affects my visiblity and communication
+- I have a penchant for silo'ing myself when I get into something, and this affects my visiblity and communication
 - I have a tendency to speak before I think, which means I ramble and jump from point to point when explaining or talking through things. If I'm jumping too much between things when I'm talking then just let me know and bring me back to a focal point
 - I do a lot of context switching both between my role and between other roles that I volunteer for / take on. If you feel like I'm neglecting something, let me know so I can adjust where need be
