@@ -4,7 +4,7 @@
 
 ![Waving hello gif](whale-gif.gif)
 
-I've been at AND for a cumulative 18-20 months (I lose count), having spent some time at a startup for a year in the middle. I'm a developer with a very generalist set of skills, skills ~~that make me a nightmare for people like you~~ ranging from Java and Ruby to tools and techniques that lie in the 'DevOps arena', and a handful of topics between.
+I've been at AND for a cumulative 25 months (I lose count), having spent some time at a startup for a year in the middle. I'm a developer with a very generalist set of skills, skills ~~that make me a nightmare for people like you~~ ranging from Java and Ruby to tools and techniques that lie in the 'DevOps arena', and a handful of topics between.
 
 I enjoy running events / hackathon type stuff, as well as giving talks that are more than 60% gifs. Anything that revolves around teaching / enabling generally makes me happy. Outside of work, I'm generally just a **massive** nerd and/or at the Marquis.
 
