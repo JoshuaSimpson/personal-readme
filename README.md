@@ -4,9 +4,9 @@
 
 ![Waving hello gif](whale-gif.gif)
 
-I've been at AND for a cumulative 25 months (I lose count), having spent some time at a startup for a year in the middle. I'm a developer with a very generalist set of skills, skills ~~that make me a nightmare for people like you~~ ranging from Java and Ruby to tools and techniques that lie in the 'DevOps arena', and a handful of topics between.
+I've been at Otto for roughly 5 months, with my previous job being at a consultancy called AND Digital. I'm a developer with a very generalist set of skills, skills ~~that make me a nightmare for people like you~~ ranging from Javascript and Ruby to tools and techniques that lie in the 'DevOps arena', and a handful of topics between.
 
-I enjoy running events / hackathon type stuff, as well as giving talks that are more than 60% gifs. Anything that revolves around teaching / enabling generally makes me happy. Outside of work, I'm generally just a **massive** nerd and/or at the Marquis.
+I enjoy running events / hackathon type stuff, as well as giving talks that are more than 60% gifs. Anything that revolves around teaching / enabling generally makes me happy. Outside of work, I'm generally just a **massive** nerd (examples include Dungeons and Dragons) and/or at the pub.
 
 # HBDI / Communication Styles
 
@@ -40,13 +40,14 @@ When I'm stressed, I move more sharply into blue / red - mostly becoming super f
 
 ![Clefairy pushing buttons](no-idea.gif)
 
-- Currently Tech Lead for Konsentus. It's an awesome team, and the first time I've taken on this sort of role
-  - I'm still finding my bearing and actively looking for feedback, so let me know where I can improve
+- Currently Tech Lead for Otto Car
+  - I'm always looking for feedback, so let me know where I can improve
   - I enjoy the balance of hands on dev and the more 'concept-oriented' parts of my role, but most of all the people part
   - I really enjoy that we get to experiment with different ways of working and new processes as a team and cultivate a learning environment
-- I'm also Crypto's People Champion
   - I like enabling and effecting change
   - I love when people come to me with opinions on things
+  - As a result of a shift towards the management aspect of my job, I don't touch code as much anymore, but I love pair programming with people when I can
+  - Because I'm not as much of a hands on developer anymore, and I juggle multiple items, I tend to keep myself away from critical items - but am always happy to help
 
 # Key Values
 
@@ -55,6 +56,7 @@ When I'm stressed, I move more sharply into blue / red - mostly becoming super f
 - Transparency - in work yes, but also to an extent in personal. If you're having a rough time or issues outside of work, I don't need to know what they are, that's your business, but I do *want* to know so that I can adjust accordingly. As somebody who isn't neurotypical, things like mental health / self care are super important to me
 - Be excellent to each other - it should go without saying, but respect within any team I work in is absolute key to me, in all forms 
 - Collaborative learning and teaching - spaces that enable learning and sharing are my favourite spaces. I love questions, especially if I don't know the answer
+- Enabling and empowering others
 
 # Here be dragons
 
@@ -64,5 +66,6 @@ When I'm stressed, I move more sharply into blue / red - mostly becoming super f
 A few pointers from feedback I've noted so far that I'm working on - I'd love feedback on how you think I'm managing these points:
 
 - I have a penchant for silo'ing myself when I get into something, and this affects my visiblity and communication
-- I have a tendency to speak before I think, which means I ramble and jump from point to point when explaining or talking through things. If I'm jumping too much between things when I'm talking then just let me know and bring me back to a focal point
-- I do a lot of context switching both between my role and between other roles that I volunteer for / take on. If you feel like I'm neglecting something, let me know so I can adjust where need be
+- I have a tendency to speak before I think, which means I ramble and jump from point to point when explaining or talking through things. If I'm jumping too much between things when I'm talking then just let me know and bring me back to a focal point. 
+- I run a lot of decisions off of gut instinct. This also means that sometimes I have an opinion on something but might not have the 'why' ready straight away. Give me a couple of minutes and I'll get there!
+- I do a lot of context switching in my role. If you feel like I'm neglecting something, let me know so I can adjust where need be
