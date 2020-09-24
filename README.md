@@ -4,7 +4,7 @@
 
 ![Waving hello gif](whale-gif.gif)
 
-I've been at Otto for roughly 5 months, with my previous job being at a consultancy called AND Digital. I'm a developer with a very generalist set of skills, skills ~~that make me a nightmare for people like you~~ ranging from Javascript and Ruby to tools and techniques that lie in the 'DevOps arena', and a handful of topics between.
+I've been at Otto for roughly 11 months, with my previous job being at a consultancy called AND Digital. I'm a developer with a very generalist set of skills, skills ~~that make me a nightmare for people like you~~ ranging from Javascript and Ruby to tools and techniques that lie in the 'DevOps arena' (that wonderful misnomer for anything that involves AWS or CI/CD), and a handful of topics between.
 
 I enjoy running events / hackathon type stuff, as well as giving talks that are more than 60% gifs. Anything that revolves around teaching / enabling generally makes me happy. Outside of work, I'm generally just a **massive** nerd (examples include Dungeons and Dragons) and/or at the pub.
 
@@ -26,7 +26,7 @@ When I'm stressed, I move more sharply into blue / red - mostly becoming super f
 
 - I'm much more effective at 11am than I am at 9am - always feel free to ask questions but early mornings... patience is key 🙏
 
-- I hold very tightly to the mantra of 'work is your job, not your life'. This covers a lot of things, but most importantly for me covers potential burnout, as well as separation of work and life. Naturally whilst I preach it, I sometimes fail at practicing it, so _please_ let me know if that's the case 
+- I hold very tightly to the mantra of 'work is your job, not your life'. This covers a lot of things, but most importantly for me covers potential burnout, as well as separation of work and life. Naturally whilst I preach it, I sometimes fail at practicing it 😅
 
 - Always feel free to grab me ad-hoc for a chat or a question or feedback, but putting something in my calendar / something structured tends to yield better results 📈
 
@@ -46,7 +46,7 @@ When I'm stressed, I move more sharply into blue / red - mostly becoming super f
   - I really enjoy that we get to experiment with different ways of working and new processes as a team and cultivate a learning environment
   - I like enabling and effecting change
   - Safe psychological environments in which to build and grow are ✨
-  - Whilst I'm only about 40% hands on developer nowadays, I enjoy pair programming and building around the critical path (fixing up frameworks, improving / covering technical debt, building out tooling to support developer work)
+  - Whilst I'm only about 30% hands on developer at the moment, I enjoy pair programming and building around the critical path (fixing up frameworks, improving / covering technical debt, building out tooling to support developer work)
 
 # Key Values
 
