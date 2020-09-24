@@ -45,9 +45,8 @@ When I'm stressed, I move more sharply into blue / red - mostly becoming super f
   - I enjoy the balance of hands on dev and the more 'concept-oriented' parts of my role, but most of all the people part
   - I really enjoy that we get to experiment with different ways of working and new processes as a team and cultivate a learning environment
   - I like enabling and effecting change
-  - I love when people come to me with opinions on things
-  - As a result of a shift towards the management aspect of my job, I don't touch code as much anymore, but I love pair programming with people when I can
-  - Because I'm not as much of a hands on developer anymore, and I juggle multiple items, I tend to keep myself away from critical items - but am always happy to help
+  - Safe psychological environments in which to build and grow are ✨
+  - Whilst I'm only about 40% hands on developer nowadays, I enjoy pair programming and building around the critical path (fixing up frameworks, improving / covering technical debt, building out tooling to support developer work)
 
 # Key Values
 
